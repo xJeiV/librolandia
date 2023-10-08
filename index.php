@@ -11,5 +11,8 @@
     <button>mas libros</button>
     <button>inicio</button>
   </header>
-  <body></body>
+  <body>
+    
+  <?php require('./components/footer.php'); ?>
+  </body>
 </html>
